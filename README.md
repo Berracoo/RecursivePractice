@@ -1,4 +1,4 @@
-# RecursivePractice
+# SubtractAndAdd
 Subtracting-Adding sequence via recursive meth.
 This README's purpose is to give details about how code works.
 Firstly we made an initial call in our main method by calling the subtactAndAdd(number, number, false) method, so we prepared a stage for it. The first number represents the number that will be decremented or added.
